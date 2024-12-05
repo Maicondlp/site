@@ -1,0 +1,36 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: #f8f9fa;
+    background: linear-gradient(to right, rgba(0,98,185,0.8), rgba(0,98,185,0.8)),url(../img/common-bg.svg);
+}
+#banner{min-height: 50vh;padding-bottom: 2%;}
+#sobre{background-color:#fafafa;min-height: 50vh;}
+#servicos{background-color:#ffffff;min-height: 50vh;}
+.image-logo{max-width:50vh;}
+.social-media img{width: 10%;height: auto;}
+.min-span {
+      width: 20%; /* Define o tamanho mínimo */
+      background-color: #3381c7;
+      padding: 5px;
+border-radius:20px;
+    }
+
+.titulo{justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;}
+
+.branco{color:#fff;}
+#container-fluid-cinza-claro{background-color:#fafafa;}
+.verde{color: #087e8b;}
+.azul-escuro{color: #0b3954;}
+.azul-claro{color:#bfd7ea;}
+.rosa{color: #ff5a5f;}
+.vermelho{color: #c81d25;}
+.verde-claro{color: #708d81;}
+
+.linha {
+  height: 5px;
+  width: 3rem;
+  background: #0062b9;
+  transform: translateX(-50%);
+  border-radius: 5px;
+}
