@@ -14,6 +14,11 @@ body{
       padding: 5px;
 border-radius:20px;
     }
+.underline-rounded {
+        border-bottom: 3px solid blue; /* Define a cor azul do sublinhado */
+        border-radius: 5px; /* Arredonda as bordas */
+        padding-bottom: 3px; /* Ajusta o espaçamento entre o texto e o sublinhado */
+    }
 
 .titulo{justify-content: center; /* Centraliza horizontalmente */
     align-items: center;}
